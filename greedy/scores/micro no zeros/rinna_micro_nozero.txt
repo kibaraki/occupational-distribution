@@ -1,0 +1,12 @@
+rinna_is_label_male
+0.972972972972973
+rinna_is_label_fem
+0.0
+rinna_type_label_male
+0.21428571428571427
+rinna_type_label_fem
+0.0
+rinna_q_label_male
+0.0
+rinna_q_label_fem
+0.0

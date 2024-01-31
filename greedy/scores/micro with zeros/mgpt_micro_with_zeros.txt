@@ -1,0 +1,12 @@
+mgpt_is_label_male
+1.0
+mgpt_is_label_fem
+0.9864864864864865
+mgpt_type_label_male
+1.0
+mgpt_type_label_fem
+1.0
+mgpt_q_label_male
+1.0
+mgpt_q_label_fem
+1.0

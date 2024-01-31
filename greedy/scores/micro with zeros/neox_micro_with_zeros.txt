@@ -1,0 +1,12 @@
+neox_is_label_male
+1.0
+neox_is_label_fem
+0.9932432432432432
+neox_type_label_male
+1.0
+neox_type_label_fem
+1.0
+neox_q_label_male
+1.0
+neox_q_label_fem
+1.0

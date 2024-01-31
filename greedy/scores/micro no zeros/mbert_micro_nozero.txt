@@ -1,0 +1,12 @@
+mbert_is_label_male
+0.0
+mbert_is_label_fem
+0.0
+mbert_type_label_male
+0.0
+mbert_type_label_fem
+0.0
+mbert_q_label_male
+0.0
+mbert_q_label_fem
+0.0

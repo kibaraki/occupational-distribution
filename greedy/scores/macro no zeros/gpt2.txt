@@ -1,0 +1,12 @@
+gpt2_is_label_male
+nan
+gpt2_is_label_fem
+nan
+gpt2_type_label_male
+nan
+gpt2_type_label_fem
+nan
+gpt2_q_label_male
+nan
+gpt2_q_label_fem
+nan

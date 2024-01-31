@@ -1,0 +1,12 @@
+tohoku_is_label_male
+0.8931297709923665
+tohoku_is_label_fem
+0.9324324324324325
+tohoku_type_label_male
+0.9389312977099237
+tohoku_type_label_fem
+0.9527027027027027
+tohoku_q_label_male
+0.9923664122137404
+tohoku_q_label_fem
+0.9864864864864865
